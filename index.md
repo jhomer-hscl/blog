@@ -1,6 +1,6 @@
 ---
 title: Welcome to James' blog
-layout: default
+layout: home
 ---
 
 ## Description
@@ -12,3 +12,13 @@ I needed somewhere to publicly share some conference notes with colleagues, clie
 Sounded like an old school blog.
 
 I can do better than and turn it into a learning exercise.
+
+## Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
