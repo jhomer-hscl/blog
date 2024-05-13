@@ -1,5 +1,6 @@
 ---
 title: Welcome to James' blog
+layout: default
 ---
 
 ## Description
