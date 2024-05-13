@@ -1,0 +1,11 @@
+{
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "davidanson.vscode-markdownlint",
+                "github.vscode-pull-request-github",
+                "streetsidesoftware.code-spell-checker"
+            ]
+        }
+    }
+}
