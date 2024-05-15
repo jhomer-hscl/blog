@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "containerised",
+        "Devoxx",
+        "KEDA",
+        "Microcks",
+        "realising",
+        "Testcontainers"
+    ],
+    "cSpell.ignoreWords": [
+        "Antipatterns",
+        "Codespaces",
+        "Devpod",
+        "autoplay",
+        "devcontainers"
+    ]
+}
