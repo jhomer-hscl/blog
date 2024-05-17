@@ -1,17 +1,29 @@
 {
     "cSpell.words": [
+        "artefacts",
+        "Buildpacks",
         "containerised",
         "Devoxx",
         "KEDA",
         "Microcks",
+        "realise",
         "realising",
+        "sigstore",
+        "SLSA",
         "Testcontainers"
     ],
     "cSpell.ignoreWords": [
         "Antipatterns",
         "Codespaces",
         "Devpod",
+        "Parca",
+        "Pyrsocope",
+        "Safepoint",
         "autoplay",
-        "devcontainers"
+        "devcontainers",
+        "evels",
+        "oftware",
+        "rtifacts",
+        "upply"
     ]
 }
